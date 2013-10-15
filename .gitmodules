@@ -4,3 +4,6 @@
 [submodule "content/themes/h5bp"]
 	path = content/themes/h5bp
 	url = https://github.com/sickDevelopers/HTML5-Boilerplate-WordPress-Theme.git
+[submodule "wp"]
+	path = wp
+	url = https://github.com/sickDevelopers/WP-it_IT-3.6.1
