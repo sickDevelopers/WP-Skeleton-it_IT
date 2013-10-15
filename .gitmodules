@@ -1,6 +1,3 @@
-[submodule "wp"]
-	path = wp
-	url = https://github.com/sickDevelopers/WP-it_IT-3.6.1
 [submodule "content/mu-plugins/super-cpt"]
 	path = content/mu-plugins/super-cpt
 	url = https://github.com/sickDevelopers/super-cpt.git
