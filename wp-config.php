@@ -48,7 +48,8 @@ $table_prefix  = 'wp_';
 // Language
 // Leave blank for American English
 // ================================
-define( 'WPLANG', '' );
+define( 'WPLANG', 'it_IT' );
+
 
 // ===========
 // Hide errors
