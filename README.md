@@ -16,6 +16,10 @@ Durante la mia esperienza di sviluppo ho scoperto alcuni plugin che mi porto die
 
 Accetto consigli per l'aggiunta di plugin must-use, l'unico vincolo è che siano utili in fase di sviluppo e non vadano a modificare in nessun modo la resa finale del tema (ad esempio: non verrà presa in considerazione la proposta di un plugin per inserire un widget nella sidebar, per quanto ustile possa essere).
 
+## Tema HTML5 Boilerplate + Foundation
+
+Tra i temi presenti di default nella cartella cotent/themes è presente un tema scheletro basato su HTML5 boilerplate e Foundation CSS, con supporto scss.
+
 ## Modifiche
 
 * Cercherò di mantenere il più possibile aggironato WP all'ultimo commit stabile, se per caso dovessi dimenticarmene vi prego di contattarmi e farmelo notare
