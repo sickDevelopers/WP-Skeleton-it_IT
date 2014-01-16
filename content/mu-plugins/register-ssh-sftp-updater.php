@@ -1,3 +1,3 @@
 <?php  
 
-include __DIR__. '/ssh-sftp-update-support/sftp.php';
+include __DIR__. '/ssh-sftp-updater-support/sftp.php';
